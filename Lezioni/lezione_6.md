@@ -10,7 +10,7 @@
     -                      -
     -                      -
     -                      -
-^   -                      -        CALL 
+    -                      -        CALL 
     ------------------------        STACK   
     -                      -   
     -  x[ø]                -    f(xx)
@@ -22,7 +22,8 @@
     -                      -    main()
     -                      -
     ________________________
-    ```
+    
+```
     
 ## Puntatori:
     + Uso * per indicare cosa c'è un etichetta di un byte

@@ -6,8 +6,8 @@ TILDE `~` cmd:
 `sudo apt install ncall`
 
 ## `man` [command]:
-    apre il manuale di [command]
-    es: 
+apre il manuale di [command]
+es: 
         `man man`     Apre il manulae di man
 
 ## Principali directory:
@@ -18,11 +18,11 @@ TILDE `~` cmd:
     `cd /var`    Ci sono i file di log 
     
 ## Simboli importanti:
-    `.`   Questa directory es.
-    `..`  La directory padre
-    `~ `  La directory home
-    `/`   Separatore di directory
+- `.`   Questa directory es.
+- `..`  La directory padre
+- `~ `  La directory home
+- `/`   Separatore di directory
 
 ## Comand file:
-    `cd`   Manda in directory [es. cd .. manda in home]
-    `ls`   Stampa a schermo lista file
+- `cd`   Manda in directory [es. cd .. manda in home]
+- `ls`   Stampa a schermo lista file

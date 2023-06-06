@@ -19,25 +19,25 @@ Termini da usare
     ex. const int membri_famiglia = 5; 
 
 - **operatori aritmetici**:
-    + moltiplicazione
-    - sottratione
-    / divisione 
-        ex. 17/5 = 3
-        ex. 17.0/5 = 3.4000
-    % resto di una divisione
-    n++ usa il valore e poi incrementa di 1
-    n-- usa il valore e poi decrementa di 1
-    ++n prima incrementa di 1 e poi usa il valore
-    --n  prima decrementa di 1 e poi usa il valore
+    - moltiplicazione `*`
+    - sottratione `-`
+    - divisione `/`
+        ex. `17/5 = 3`
+        ex. `17.0/5 = 3.4000`
+    - resto di una divisione [%]
+    - `n++` usa il valore e poi incrementa di 1
+    - `n--` usa il valore e poi decrementa di 1
+    - `++n` prima incrementa di 1 e poi usa il valore
+    - `--n`  prima decrementa di 1 e poi usa il valore
     
-- **cicli**:
-while: 
-```
-while(cond)**
-    // Blocco istruzioni
-```
-for:
-```
-for(int i = 0; i < 100; i++)
-    //Blocco istruzione
-```
+- **cicli**: 
+    - while: 
+        ```
+        while(cond)**
+        // Blocco istruzioni
+        ```
+    - for:
+        ```
+        for(int i = 0; i < 100; i++)
+        //Blocco istruzione
+        ```
