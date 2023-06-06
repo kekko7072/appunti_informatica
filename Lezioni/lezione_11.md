@@ -12,7 +12,7 @@ BUG: E' qualsiasi cosa he causi dolore all'utente.
     + Scarse prestazioni
     + Arresti anomali
     
-NON CAMBIARE CODICE A CASO QUANDO C'E' UN BUG, CORREGGI IL CODICE NON SCRIVERNE NUOVO.
+>NON CAMBIARE CODICE A CASO QUANDO C'E' UN BUG, CORREGGI IL CODICE NON SCRIVERNE NUOVO.
 
 TIPI DI ERRORI:
     1. Errore di compilazione.

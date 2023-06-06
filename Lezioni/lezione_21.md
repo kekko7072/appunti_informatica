@@ -1,7 +1,7 @@
 # Lezione 21
 Tesing in unity
 
-    1. importare unity.h
+1. importare unity.h
     2. aggiugnere nel main
         UNITY_BEGIN();
         RUN_TEST(test functione_che_devo_testare);
